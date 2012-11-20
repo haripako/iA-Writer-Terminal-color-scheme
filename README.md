@@ -1,6 +1,5 @@
 # iAWriter for OS X Terminal
 
-![Termianl](terminal.png)
 ![Terminal](github.com/haripako/iA-Writer-Terminal-color-scheme/img/terminal.png)
 
 Color scheme inspirated on iA Writer by Francisco Vargas
