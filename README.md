@@ -8,6 +8,6 @@ Color scheme inspirated on iA Writer by Francisco Vargas
 2. Import to Terminal profiles
 
 
-![iAWriter logo](https://github.com/haripako/iA-Writer-Terminal-color-scheme/tree/master/img/iaw-logo.png?raw=true)
+![iAWriter logo](https://github.com/haripako/iA-Writer-Terminal-color-scheme/blob/master/img/iaw-logo.png?raw=true)
 
 You can download iAWriter on http://www.iawriter.com/
