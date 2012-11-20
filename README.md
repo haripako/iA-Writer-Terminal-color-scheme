@@ -1,6 +1,6 @@
 # iAWriter for OS X Terminal
 
-![Terminal](github.com/haripako/iA-Writer-Terminal-color-scheme/img/terminal.png)
+![Terminal](https://github.com/haripako/iA-Writer-Terminal-color-scheme/tree/master/img/terminal.png)
 
 Color scheme inspirated on iA Writer by Francisco Vargas
 
@@ -8,6 +8,6 @@ Color scheme inspirated on iA Writer by Francisco Vargas
 2. Import to Terminal profiles
 
 
-![iAWriter logo](github.com/haripako/iA-Writer-Terminal-color-scheme/img/iaw-logo.png)
+![iAWriter logo](https://github.com/haripako/iA-Writer-Terminal-color-scheme/tree/master/img/iaw-logo.png)
 
 You can download iAWriter on http://www.iawriter.com/
